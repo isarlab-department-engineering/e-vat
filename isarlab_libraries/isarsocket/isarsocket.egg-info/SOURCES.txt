@@ -1,0 +1,9 @@
+setup.py
+isarsocket/__init__.py
+isarsocket/isarsocket.py
+isarsocket/simple_socket.py
+isarsocket.egg-info/PKG-INFO
+isarsocket.egg-info/SOURCES.txt
+isarsocket.egg-info/dependency_links.txt
+isarsocket.egg-info/requires.txt
+isarsocket.egg-info/top_level.txt
